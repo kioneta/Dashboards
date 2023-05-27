@@ -1,11 +1,11 @@
 # Dashboards
 At this area you can find examples of dashboards made via following programs:
 
-1. Datalens interactive dashdoard - https://datalens.yandex/hh7tinrxzxhs8
+#1. Datalens interactive dashdoard - https://datalens.yandex/hh7tinrxzxhs8
 
 ![image](https://github.com/kioneta/Dashboards/assets/110675077/cfa89319-67be-479c-9a33-6db56da57dba)
 
-2. Power Bi Dashboard.
+#2. Power Bi Dashboard.
 
 You can find dashboard in materials for this repository. The file name is "Power BI, advertising costs". Link to download file: https://github.com/kioneta/Dashboards/raw/main/Power%20BI%2C%20advertising%20costs.pbix
 
